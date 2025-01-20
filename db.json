@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "257ee786-ae75-42c3-b24d-b6b05903fc66",
+      "name": "Alisson Delatim",
+      "email": "alisson@teste.com",
+      "password": "123456",
+      "status": true
+    },
+    {
+      "id": "b62cfd05-8a39-4b92-8ee3-12a62f3acb18",
+      "name": "Carlos Silva",
+      "email": "carlos@teste.com",
+      "password": "123456",
+      "status": true
+    }
+  ]
+}
